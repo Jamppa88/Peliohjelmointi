@@ -1,4 +1,2 @@
 ### Harjoitukset
 
-|Tehtävä|Linkki|
-|:-:|:-:|
