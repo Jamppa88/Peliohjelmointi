@@ -1,7 +1,6 @@
 ### Harjoitukset
 {::comment}
 Tämä on kommentoitu
-
 |---
 | Default aligned | Left aligned | Center aligned | Right aligned
 |-|:-|:-:|-:
