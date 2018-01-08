@@ -12,4 +12,4 @@ Tämä on kommentoitu
 | 2 line
 |===
 | Footer row
-{::/comment}
+{:/comment}
